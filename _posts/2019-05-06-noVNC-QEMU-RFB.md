@@ -10,7 +10,6 @@ categories: article
 
 {% include tags.html %}
 
-## Note: this entry is based on an article authored by me in August 23th 2016, on IBM Developer Works
 
 Web-based KVM management tools such as Ovirt help users to create and manage virtual machines (VMs) easily, even from mobile devices. Such tools rely on remote desktop-sharing technology such as Virtual Network Computing (VNC), and those that use VNC require a web-based VNC client such as [noVNC](https://novnc.com).
 
